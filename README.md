@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center"><a><img src="https://cdn.discordapp.com/attachments/495678363763998740/780826842855768104/profilegithub.png"></a></p>
+<p align="center"><a><img src="https://cdn.discordapp.com/attachments/495678363763998740/780833637264130058/rerz-4.png"></a></p>
 
-<!--
-**Zilnix/Zilnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/Zilnix"><img src="https://github-readme-stats.vercel.app/api?username=Zilnix&show_icons=true&bg_color=111111&text_color=999&icon_color=ff3f34&title_color=ff3f34"></a>
+<a href="https://github.com/Zilnix?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mawco&show_icons=true&bg_color=111111&text_color=999&icon_color=ff3f34&title_color=ff3f34"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2></h2>
+<p align="center">
+<a href="https://github.com/Zilnix"><img src="https://komarev.com/ghpvc/?username=Zilnix&color=red&label=Profile%20Views&logo=Github&style=flat-square"></a>
+<a href="https://github.com/Zilnix?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Zilnix?color=red&label=Followers&logo=Github&style=flat-square"></a>
+</p>
+<h2></h2>
