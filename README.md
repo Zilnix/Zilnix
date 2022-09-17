@@ -9,6 +9,5 @@
 <h2></h2>
 <p align="center">
 <a href="https://github.com/Zilnix"><img src="https://komarev.com/ghpvc/?username=Zilnix&color=red&label=Profile%20Views&logo=Github&style=flat-square"></a>
-<a href="https://github.com/Zilnix?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Zilnix?color=red&label=Followers&logo=Github&style=flat-square"></a>
 </p>
 <h2></h2>
