@@ -1,5 +1,4 @@
 <p align="center"><a><img src="https://cdn.discordapp.com/attachments/495678363763998740/780826842855768104/profilegithub.png"></a></p>
-<p align="center"><a><img src="https://cdn.discordapp.com/attachments/495678363763998740/780833637264130058/rerz-4.png"></a></p>
 
 <p align="center">
 
